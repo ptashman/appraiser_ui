@@ -1,0 +1,44 @@
+/*
+Theme Name: Cannyon Child
+Theme URI: http://mythem.es/item/cannyon-free-wordpress-theme/
+Template: cannyon
+Description: Cannyon is an white, clean, elegant, modern, beautiful and creative freemium WordPress theme built with HTML5 and CSS3. The clean, modern design can be used for any type of website: business, corporate, portfolio, products, creative, arts, design, construction, transport, manufacturing, ecology, cosmetics, beauty, hygiene, sports, culture, presentations, food business, restaurants, drink, bar, pub, club, radio, tv, television, music, movies, live style, garden, cuisine, chemical, pharmaceutical, medicine, travel, sample blog, agriculture, science, politics and more others. Theme comes with nice flat design concept and responsive layout. This theme is suitable for all type of devices: desktop, notebook, iPhone, tablete and others. Responsive design and grid system is based on twitter bootstrap framework. Theme is developed by myThem.es and it comes with nice header parallax effect. We carefully handcrafted this theme with a strong focus on typography, usability and overall user-experience. This beautiful and easy to customize WordPress theme come with live preview changes integrated with wp customize. It’s very quick to setup and easy to customize and it comes with free support. Theme features: custom header, parallax header, header buttons, custom logo, custom favicon, header custom colors, custom background color, custom background image, custom footer, custom copyright, custom social links, custom css, custom layout, left sidebar, right sidebar, full width layout, additional sidebars, custom widgets, support for jetpack plugin, styled contact form 7 plugin. Please read the FAQ: Admin Dashboard > Appearances > Cannyon FAQ.
+Version: 0.0.11
+Tags:  black, silver, light, white, blue, green, three-columns, two-columns, one-column, right-sidebar, left-sidebar, fluid-layout, responsive-layout, flexible-header, featured-images, sticky-post, theme-options, translation-ready, custom-colors, custom-menu, featured-image-header, threaded-comments, custom-background, custom-header
+Text Domain: cannyon
+Author: myThem.es
+Author URI: http://mythem.es/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+#results_section {
+  margin: 0 auto;
+  float: none;
+}
+
+#results_section .result_spacing h3 {
+  text-align: center;
+  margin: 0px 0px 45px 0px;
+}
+
+#results_section .result_spacing {
+  margin: 0px 1.5%;
+  padding: 25px 0px;
+  width: 30%;
+  height: 250px;
+  float: left;
+  background: #fff;
+}
+
+.hide {
+  display: none;
+}
+
+.grade {
+  font-size: 40px;
+}
+
+.hundred {
+  font-size: 20px;
+}

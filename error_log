@@ -1,0 +1,7 @@
+[05-May-2016 11:48:17 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/ptashman/public_html/wp-content/themes/cannyon-child/functions.php on line 9
+[05-May-2016 12:17:13 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/ptashman/public_html/wp-content/themes/cannyon-child/front-page.php on line 1
+[12-May-2016 06:23:55 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jul-2016 09:37:04 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home4/ptashman/public_html/wp-content/themes/cannyon-child/header.php on line 2
+[05-Jul-2016 09:37:06 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/ptashman/public_html/wp-content/themes/cannyon-child/front-page.php on line 1
+[05-Jul-2016 09:37:07 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/ptashman/public_html/wp-content/themes/cannyon-child/functions.php on line 19
+
